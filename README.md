@@ -2,7 +2,7 @@
 
 In this project, I implement a Distributed Calculator using JAVA. The idea beyond this is to send in the network the numbers of an operation, the basics ones, and another computer does the math and sends back to the client. The picture below shows how it works.
 
-![alt text](systemArchitecture.png) system Architecture
+![alt text](systemArchitecture.png)
 
 # How to execute/test this?
 
